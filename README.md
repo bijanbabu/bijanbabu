@@ -18,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijanbabu&show_icons=true&locale=en&layout=compact" alt="bijanbabu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijanbabu&show_icons=true&locale=en" alt="bijanbabu" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijanbabu&" alt="bijanbabu" /></p>
