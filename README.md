@@ -1,5 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Bijan Babu Shrestha</h1>
 <h3 align="center">A passionate Web developer from Nepal</h3>
+<div style="text-align: center;">
+  <img src="https://github.com/bijanbabu/bijanbabu/blob/main/perfect.gif?raw=true" alt="logo">
+</div>
 
 - 🌱 I’m currently learning **Python**
 
